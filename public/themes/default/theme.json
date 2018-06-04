@@ -1,0 +1,11 @@
+{
+    "slug": "default",
+    "name": "default view",
+    "author": "default",
+    "email": "276595510@qq.com",
+    "description": "This is an default theme.",
+    "web": "www.example.com",
+    "printscreen": "",
+    "license": "MIT",
+    "version": "1.0"
+}
